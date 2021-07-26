@@ -10,41 +10,27 @@ http://udagram-frontend-bucket.s3-website-us-east-1.amazonaws.com/
 
 ## Amazon S3
 
-![](./images/Capture.PNG)
+![](./documentation/images/Capture.PNG)
 
 ## Application Environment
 
-![](./images/Capture2.PNG)
+![](./documentation/images/Capture2.PNG)
 
 ## RDS
 
-![](./images/Capture3.PNG)
+![](./documentation/images/Capture3.PNG)
 
 ## CirlceCI
 
-![](./images/Capture4.PNG)
+![](./documentation/images/Capture4.PNG)
+
+## Env Variables
+
+![](./documentation/images/circleci_env.PNG)
 
 ## Architecture
 
-![](./images/Capture5.PNG)
-
-### Dependencies
-
-```
-- Frontend:Node v14.15.1
-- Backend:Node v12.0.0
-
-- Frontend:npm 6.14.8
-- Backend:npm 6.9
-
-- AWS CLI v2
-- EB CLI
-
-- A RDS database running Postgres.
-
-- A S3 bucket for hosting uploaded pictures.
-
-```
+![](./documentation/images/InfrastructureDiagram.PNG)
 
 ## Built With
 
