@@ -1,8 +1,6 @@
 branch-defaults:
   master:
     environment: Udagram2-env
-deploy:
-  artifact:www/Archive.zip  
 environment-defaults:
   Udagram2-env:
     branch: null
