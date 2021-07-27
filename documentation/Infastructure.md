@@ -12,4 +12,4 @@
 
 ## Infrastracture Schema
 
-![](./images/InfrastructureDiagram.png)
+![](./images/infrastructure.jpeg)

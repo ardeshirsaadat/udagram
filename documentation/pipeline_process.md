@@ -9,3 +9,7 @@ CI/CD is setup and connected with Circleci
 3. FrontEnd & BackEnd install
 4. FrontEnd & BackEnd build
 5. FrontEnd & BackEnd deploy
+
+## Schema
+
+![](./images/schema.jpeg)

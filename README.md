@@ -10,27 +10,31 @@ http://udagram-frontend-bucket.s3-website-us-east-1.amazonaws.com/
 
 ## Amazon S3
 
-![](./documentation/images/Capture.PNG)
+![](./documentation/images/s3.PNG)
 
 ## Application Environment
 
-![](./documentation/images/Capture2.PNG)
+![](./documentation/images/app_env.PNG)
 
 ## RDS
 
-![](./documentation/images/Capture3.PNG)
+![](./documentation/images/rds.PNG)
 
 ## CirlceCI
 
-![](./documentation/images/Capture4.PNG)
+![](./documentation/images/circleci.PNG)
 
 ## Env Variables
 
 ![](./documentation/images/circleci_env.PNG)
 
+## Schema
+
+![](./documentation/images/schema.jpeg)
+
 ## Architecture
 
-![](./documentation/images/InfrastructureDiagram.PNG)
+![](./documentation/images/infrastructure.jpeg)
 
 ## Built With
 
