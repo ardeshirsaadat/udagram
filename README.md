@@ -26,7 +26,7 @@ http://udagram-frontend-bucket.s3-website-us-east-1.amazonaws.com/
 
 ## Env Variables
 
-![](./documentation/images/circleci_env_mod.PNG)
+![](./documentation/images/circleci_env_mod2.PNG)
 
 ## Schema
 
